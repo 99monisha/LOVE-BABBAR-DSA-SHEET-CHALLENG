@@ -1,7 +1,7 @@
 # LOVE-BABBAR-DSA-SHEET-CHALLENG
 <h3><a href="https://github.com/99monisha/LOVE-BABBAR-DSA-SHEET-CHALLENG/blob/master/ARRAYS/1.Reverse%20Array/reverse.cpp">1. REVERSE the array</a></h3>
 <h3><a href="https://github.com/99monisha/LOVE-BABBAR-DSA-SHEET-CHALLENG/blob/master/ARRAYS/maxmin/maxmin.cpp">2. MAXIMUM and MINIMUM elements in an array</a></h3>
-<h3><a href=""></a></h3>
+<h3><a href="https://github.com/99monisha/LOVE-BABBAR-DSA-SHEET-CHALLENG/blob/master/ARRAYS/sort%20array%20without%20sorting%20algo/sort.cpp">3. SORT ARRAY without  using any sorting algorithms</a></h3>
 <h3><a href=""></a></h3>
 <h3><a href=""></a></h3>
 <h3><a href=""></a></h3>
