@@ -6,7 +6,7 @@
 <h3><a href="https://github.com/99monisha/LOVE-BABBAR-DSA-SHEET-CHALLENG/blob/master/ARRAYS/kth%20max%20min/maxmin.cpp">5. Find the Kth Max and Min elements in an Array</a></h3>
 <h3><a href="https://github.com/99monisha/LOVE-BABBAR-DSA-SHEET-CHALLENG/blob/master/ARRAYS/union%20and%20intersection/uniinter.cpp">6. Find the UNION and INTERSECTION of the two SORTED array</a></h3>
 <h3><a href="https://github.com/99monisha/LOVE-BABBAR-DSA-SHEET-CHALLENG/blob/master/ARRAYS/minimum%20no%20of%20jumps/mini.cpp">7. Find The Minimum  No of Jumps to reach the end of an array </a></h3>
-<h3><a href=""></a></h3>
+<h3><a href="https://github.com/99monisha/LOVE-BABBAR-DSA-SHEET-CHALLENG/blob/master/ARRAYS/diff%20heights/differ.cpp">8. Minimize the maximum difference between heights</a></h3>
 <h3><a href=""></a></h3>
 <h3><a href=""></a></h3>
 <h3><a href=""></a></h3>
