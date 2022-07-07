@@ -35,4 +35,5 @@ int main()
     }
 	int ans = minimize(a, n, k);
 	cout << ans;
+    return 0;
 }
