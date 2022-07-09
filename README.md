@@ -7,7 +7,7 @@
 <h3><a href="https://github.com/99monisha/LOVE-BABBAR-DSA-SHEET-CHALLENG/blob/master/ARRAYS/union%20and%20intersection/uniinter.cpp">6. Find the UNION and INTERSECTION of the two SORTED array</a></h3>
 <h3><a href="https://github.com/99monisha/LOVE-BABBAR-DSA-SHEET-CHALLENG/blob/master/ARRAYS/minimum%20no%20of%20jumps/mini.cpp">7. Find The Minimum  No of Jumps to reach the end of an array </a></h3>
 <h3><a href="https://github.com/99monisha/LOVE-BABBAR-DSA-SHEET-CHALLENG/blob/master/ARRAYS/diff%20heights/differ.cpp">8. Minimize the maximum difference between heights</a></h3>
-<h3><a href=""></a></h3>
+<h3><a href="https://github.com/99monisha/LOVE-BABBAR-DSA-SHEET-CHALLENG/blob/master/ARRAYS/duplicates%20N%2B1%20integers/duplicates.cpp">9. Find the array of an N+1 integers</a></h3>
 <h3><a href=""></a></h3>
 <h3><a href=""></a></h3>
 <h3><a href=""></a></h3>
